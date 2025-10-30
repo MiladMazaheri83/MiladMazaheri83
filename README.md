@@ -1,6 +1,6 @@
 <!-- ==== PERSONAL HEADER ==== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MiladMazaheri83/assets/main/banner-tech-dark.png" width="100%" alt="Milad Mazaheri header banner">
+  <img src="https://raw.githubusercontent.com/MiladMazaheri83/assets/main/banner/b0e4fefd-4d9c-4add-b91e-e65df8e3674b.png" width="100%" alt="Milad Mazaheri header banner">
 </p>
 
 <h1 align="center">🧑‍💻 Milad Mazaheri</h1>
@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MiladMazaheri83/assets/main/hwsw-bridge-diagram.png" width="60%" alt="Hardware Software Co-Design Diagram">
+  <img src="https://raw.githubusercontent.com/MiladMazaheri83/assets/main/bridge/7a2efdeb-c27f-4c71-81b3-9379b08946c1.png" width="60%" alt="Hardware Software Co-Design Diagram">
 </p>
 
 ---
@@ -57,5 +57,5 @@
 <p align="center"><i>“Balance speed, structure, and simplicity — that’s real engineering.”</i></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MiladMazaheri83/assets/main/footer-wave.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/MiladMazaheri83/assets/main/divider/9c08ca82-e999-4c54-bcc6-1b40b42b1274.png" width="100%">
 </p>
