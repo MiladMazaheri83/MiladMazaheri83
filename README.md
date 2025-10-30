@@ -1,6 +1,6 @@
 <!-- ==== PERSONAL HEADER ==== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MiladMazaheri83/assets/main/main/banner/b0e4fefd-4d9c-4add-b91e-e65df8e3674b.png" width="100%" alt="Milad Mazaheri header banner">
+  <img src="https://raw.githubusercontent.com/MiladMazaheri83/MiladMazaheri83/main/banner/b0e4fefd-4d9c-4add-b91e-e65df8e3674b.png" width="100%" alt="Milad Mazaheri header banner">
 </p>
 
 <h1 align="center">🧑‍💻 Milad Mazaheri</h1>
@@ -16,13 +16,11 @@
 <h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/systemc/systemc-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vivado/vivado-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="36"/>
 </p>
 
 ---
@@ -36,10 +34,10 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MiladMazaheri83/assets/main/main/bridge/7a2efdeb-c27f-4c71-81b3-9379b08946c1.png" width="60%" alt="Hardware Software Co-Design Diagram">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiladMazaheri83&theme=dark&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&disable_animations=true" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiladMazaheri83&langs_count=6&theme=dark&hide=html,css" height="190"/>
 </p>
 
----
 
 <!-- ==== CONTACT ==== -->
 <h2 align="center">📫 Contact</h2>
@@ -55,7 +53,3 @@
 ---
 
 <p align="center"><i>“Balance speed, structure, and simplicity — that’s real engineering.”</i></p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MiladMazaheri83/assets/main/main/divider/9c08ca82-e999-4c54-bcc6-1b40b42b1274.png" width="100%">
-</p>
