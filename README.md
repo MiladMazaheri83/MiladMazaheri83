@@ -16,11 +16,16 @@
 <h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/MiladMazaheri83/MiladMazaheri83/main/icon/c.svg" height="36"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="36"/>
+<img src="https://raw.githubusercontent.com/MiladMazaheri83/MiladMazaheri83/main/icon/verilog-svgrepo-com.svg" height="36"/>
+<img src="https://raw.githubusercontent.com/MiladMazaheri83/MiladMazaheri83/main/icon/arduino.svg" height="36"/>
+<img src="https://raw.githubusercontent.com/MiladMazaheri83/MiladMazaheri83/main/icon/systemc.svg" height="36"/>
+
 </p>
 
 ---
