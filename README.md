@@ -13,7 +13,9 @@ Interested in **Machine Learning, Deep Learning, Generative AI, and AI Systems**
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,sklearn,numpy,pandas,git,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,git,linux,docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
 </p>
 
 ### Currently Learning
